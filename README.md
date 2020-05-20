@@ -43,3 +43,8 @@ print(grocery_list)
 example_array = np.array([24, 16, 30, 10, 12, 28, 38, 2, 4, 36])
 
 example_average = np.average(example_array)
+
+
+example_array = np.array([24, 16, 30, 10, 12, 28, 38, 2, 4, 36])
+
+example_average = np.average(example_array)
